@@ -1,0 +1,4 @@
+id;name;description;discount_type;discount_value;min_order_amount;code;is_active;starts_at;expires_at;image_url;created_at;updated_at
+bf90b736-5b22-4cae-9fef-3280b0ded94f;Pongal Special;Celebrate Pongal with 20% off on all orders!;percentage;20;200;PONGAL2026;true;2026-01-09 12:44:08.426091+00;2026-01-20 18:29:59+00;;2026-01-09 12:44:08.426091+00;2026-01-09 12:44:08.426091+00
+8166b344-15cc-4922-a04c-7cd984c4dfc1;Republic Day Feast;Flat ₹75 off on orders above ₹500;fixed;75;500;REPUBLIC75;true;2026-01-09 12:44:08.426091+00;2026-01-26 18:29:59+00;;2026-01-09 12:44:08.426091+00;2026-01-09 12:44:08.426091+00
+3d45c3f4-7131-4419-a055-e68bf5b86b44;Weekend Bonanza;15% off on weekend orders;percentage;15;300;WEEKEND15;true;2026-01-09 12:44:08.426091+00;2026-03-31 18:29:59+00;;2026-01-09 12:44:08.426091+00;2026-01-09 12:44:08.426091+00
